@@ -12,9 +12,11 @@ h1.align-left {
 
 p.align-center {
     text-align: center;
+    font-size: 18px;
 }
 
 p.align-right {
     text-align: right;
+    font-size: 18px;
 }
 
