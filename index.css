@@ -9,3 +9,12 @@ h1 {
 h1.align-left {
     text-align: left;
 }
+
+p.align-center {
+    text-align: center;
+}
+
+p.align-right {
+    text-align: right;
+}
+
